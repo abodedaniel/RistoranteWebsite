@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="86" column="40" lean-forward="true" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+            <state relative-caret-position="205">
+              <caret line="59" column="145" lean-forward="false" selection-start-line="59" selection-start-column="145" selection-end-line="59" selection-end-column="145" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -89,6 +89,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -172,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -287,15 +288,15 @@
       <option name="presentableId" value="Default" />
       <updated>1532003277051</updated>
       <workItem from="1532003279790" duration="26941000" />
-      <workItem from="1532422072644" duration="1720000" />
+      <workItem from="1532422072644" duration="2546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28661000" />
+    <option name="totallyTimeSpent" value="29487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="241" y="17" width="1065" height="622" extended-state="1" />
+    <frame x="241" y="17" width="1065" height="622" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17023346" sideWeight="0.4928717" order="0" side_tool="false" content_ui="combo" />
@@ -448,8 +449,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="86" column="40" lean-forward="true" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+        <state relative-caret-position="205">
+          <caret line="59" column="145" lean-forward="false" selection-start-line="59" selection-start-column="145" selection-end-line="59" selection-end-column="145" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
